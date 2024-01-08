@@ -15,3 +15,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" style="vertical-align:down; margin:4px" alt="golang">
 </p>
       
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/iarbaiza?1337Badge=off&UM6P=off" alt="iarbaiza's 42 stats" /></a>
