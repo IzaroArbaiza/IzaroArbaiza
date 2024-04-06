@@ -71,6 +71,16 @@
             <td align="center">C / Mkaefile</td>
             <td>...</td>
           </tr>
+          <tr>
+            <td align="center"><a href="https://github.com/IzaroArbaiza/42-Cursus/tree/main/minishell">Minishell</a></td>
+            <td align="center">C / Mkaefile</td>
+            <td>...</td>
+          </tr>
+          <tr>
+            <td align="center"><a href="https://github.com/IzaroArbaiza/42-Cursus/tree/main/NetPractice">NetPractice</a></td>
+            <td align="center">TCP/IP addressing</td>
+            <td>...</td>
+          </tr>
         </tbody>
       </table>
     <!--</details>-->
