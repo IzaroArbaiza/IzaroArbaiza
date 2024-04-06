@@ -21,9 +21,14 @@
   </p>
   
   <br><hr><br>
-  <p align="center"><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/iarbaiza" alt="iarbaiza's 42 stats" /></a></p>
+ <!--  <p align="center"><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/iarbaiza" alt="iarbaiza's 42 stats" /></a></p>
   <br>
- <!-- [![iarbaiza's 42 stats](https://badge.mediaplus.ma/darkblue/iarbaiza)](https://github.com/oakoudad/badge42)-->
+ [![iarbaiza's 42 stats](https://badge.mediaplus.ma/darkblue/iarbaiza)](https://github.com/oakoudad/badge42)-->
+[![<username>'s 42 stats](https://badge.mediaplus.ma/<theme>/<username>)](https://github.com/oakoudad/badge42)
+
+<figure>
+  <img src="./example/darkblue.svg" alt="Darkblue" title="Darkblue" />
+</figure>
   
   <div title="Remarkable projects" align="center">
     <h3>Click on the arrow below to see some of my projects from 42</h3>
