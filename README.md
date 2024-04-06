@@ -19,8 +19,8 @@
     <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=for-the-badge" style="vertical-align:down;"/>
     <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-99F?logo=adobepremierepro&logoColor=fff&style=for-the-badge" style="vertical-align:down;"/>
   </p>
-  
-  <br><hr><!--<br>-->
+  <hr>
+  <!--<br>--><!--<br>-->
  <!--<p align="center"><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/iarbaiza" alt="iarbaiza's 42 stats" /></a></p>-->
   <br>  
   <div title="Remarkable projects" align="center">
@@ -75,4 +75,10 @@
       </table>
     <!--</details>-->
   </div>
+  <br><hr>
+  <h2>✨Connect with me!✨</h2>
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/izaro-arbaiza/)
+
+<!--
 </body>
