@@ -49,7 +49,7 @@
           <tr>
             <td align="center"><a href="https://github.com/IzaroArbaiza/42-Cursus/tree/main/get_next_line">get_next_line</a></td>
             <td align="center">C</td>
-            <td>...</td>
+            <td>It's a C function designed to read and extract individual lines from a file descriptor, emphasizing input/output operations and memory management to strengthen programming skills</td>
           </tr>
           <tr>
             <td align="center"><a href="https://github.com/IzaroArbaiza/42-Cursus/tree/main/minitalk">Minitalk</a></td>
