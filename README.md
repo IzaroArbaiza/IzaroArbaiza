@@ -20,20 +20,13 @@
     <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-99F?logo=adobepremierepro&logoColor=fff&style=for-the-badge" style="vertical-align:down;"/>
   </p>
   
-  <br><hr><br>
- <!--  <p align="center"><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/iarbaiza" alt="iarbaiza's 42 stats" /></a></p>
-  <br>
- [![iarbaiza's 42 stats](https://badge.mediaplus.ma/darkblue/iarbaiza)](https://github.com/oakoudad/badge42)-->
-[![<username>'s 42 stats](https://badge.mediaplus.ma/<theme>/<username>)](https://github.com/oakoudad/badge42)
-
-<figure>
-  <img src="./example/darkblue.svg" alt="Darkblue" title="Darkblue" />
-</figure>
-  
+  <br><hr><!--<br>-->
+ <!--<p align="center"><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/iarbaiza" alt="iarbaiza's 42 stats" /></a></p>-->
+  <br>  
   <div title="Remarkable projects" align="center">
-    <h3>Click on the arrow below to see some of my projects from 42</h3>
-    <details>
-      <summary></summary>
+    <h3>See some of my projects from 42</h3>
+    <!--<details>-->
+      <!--<summary></summary>--><br>
       <table>
         <thead>
           <tr>
@@ -80,6 +73,6 @@
           </tr>
         </tbody>
       </table>
-    </details>
+    <!--</details>-->
   </div>
 </body>
