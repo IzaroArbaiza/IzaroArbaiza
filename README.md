@@ -21,8 +21,9 @@
   </p>
   
   <br><hr><br>
-  <p align="center"><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/iarbaiza?1337Badge=off&UM6P=off" alt="iarbaiza's 42 stats" /></a></p>
+  <p align="center"><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/iarbaiza" alt="iarbaiza's 42 stats" /></a></p>
   <br>
+ <!-- [![iarbaiza's 42 stats](https://badge.mediaplus.ma/darkblue/iarbaiza)](https://github.com/oakoudad/badge42)-->
   
   <div title="Remarkable projects" align="center">
     <h3>Click on the arrow below to see some of my projects from 42</h3>
