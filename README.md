@@ -104,7 +104,7 @@
           <tr>
             <td align="center"><a /*href="https://github.com/IzaroArbaiza/42-Cursus/tree/main/so_long"*/>Cub3D</a></td>
             <td align="center">C / Makefile / OpenGL</td>
-            <td>Involves crafting a basic 3D game in C, prioritizing graphics and game development to boost programming skills.</td>
+            <td>Involves creating a simple 3D game engine in C using raycasting, learning about graphics programming, mathematical concepts, and game development fundamentals.</td>
           </tr>
         </tbody>
       </table>
