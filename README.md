@@ -1,7 +1,7 @@
 <body>
   <h1># Hi there 👋</h1>
   <p>- 🔭 I’m currently working on my Cursus at 42 Urduliz</p>
-  <p>- 🌱 I’m currently learning C and Python</p>
+  <p>- 🌱 I’m currently learning C++, Java and Python</p>
   <p>- 📫 How to reach me: izaroarbaizaipas@gmail.com</p>
   <hr><br>
   
