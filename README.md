@@ -90,6 +90,8 @@
         </tbody>
       </table>
     <!--</details>-->
+    <br>
+    <h4>Im currently working on</h4>
     <table>
         <thead>
           <tr>
@@ -100,9 +102,9 @@
         </thead>
         <tbody>
           <tr>
-            <td align="center"><a href="https://github.com/IzaroArbaiza/42-Cursus/tree/main/Libft">Libft</a></td>
-            <td align="center">C / Makefile</td>
-            <td>A customized C library to practice C skills, by re-implementing standard functions.</td>
+            <td align="center"><a /*href="https://github.com/IzaroArbaiza/42-Cursus/tree/main/so_long"*/>Cub3D</a></td>
+            <td align="center">C / Makefile / OpenGL</td>
+            <td>Involves crafting a basic 3D game in C, prioritizing graphics and game development to boost programming skills.</td>
           </tr>
         </tbody>
       </table>
