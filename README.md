@@ -87,6 +87,11 @@
             <td align="center">TCP/IP addressing</td>
             <td>Is centered around network programming, emphasizing tasks such as socket programming, network protocol implementation, and client-server communication. Its goal is to strengthen practical skills and deepen understanding of networking concepts.</td>
           </tr>
+          <tr>
+            <td align="center"><a href="https://github.com/IzaroArbaiza/42-Cursus/tree/main/Cub3D">Cub3D</a></td>
+            <td align="center">C / Makefile / OpenGL</td>
+            <td>Involves creating a simple 3D game engine in C using raycasting, learning about graphics programming, mathematical concepts, and game development fundamentals.</td>
+          </tr>
         </tbody>
       </table>
     <!--</details>-->
@@ -102,9 +107,9 @@
         </thead>
         <tbody>
           <tr>
-            <td align="center"><a /*href="https://github.com/IzaroArbaiza/42-Cursus/tree/main/so_long"*/>Cub3D</a></td>
-            <td align="center">C / Makefile / OpenGL</td>
-            <td>Involves creating a simple 3D game engine in C using raycasting, learning about graphics programming, mathematical concepts, and game development fundamentals.</td>
+            <td align="center"><a /*href="https://github.com/IzaroArbaiza/42-Cursus/tree/main/so_long"*/>Cpp00</a></td>
+            <td align="center">C++ / Makefile</td>
+            <td>Currently starting programing from the basics on C++.</td>
           </tr>
         </tbody>
       </table>
