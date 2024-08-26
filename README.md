@@ -93,7 +93,7 @@
             <td>Involves creating a simple 3D game engine in C using raycasting, learning about graphics programming, mathematical concepts, and game development fundamentals.</td>
           </tr>
           <tr>
-            <td align="center"><a href="https://github.com/IzaroArbaiza/42-Cursus">Cpp00-04</a></td>
+            <td align="center"><a href="https://github.com/IzaroArbaiza/Cpp">Cpp00-04</a></td>
             <td align="center">C++ / Makefile </td>
             <td>A series of projects focused on mastering fundamental programming concepts, object-oriented design, memory management, and advanced techniques in C++.</td>
           </tr>
