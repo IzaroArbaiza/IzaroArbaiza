@@ -92,6 +92,11 @@
             <td align="center">C / Makefile / OpenGL</td>
             <td>Involves creating a simple 3D game engine in C using raycasting, learning about graphics programming, mathematical concepts, and game development fundamentals.</td>
           </tr>
+          <tr>
+            <td align="center"><a href="https://github.com/IzaroArbaiza/42-Cursus">Cpp00-04</a></td>
+            <td align="center">C++ / Makefile </td>
+            <td>A series of projects focused on mastering fundamental programming concepts, object-oriented design, memory management, and advanced techniques in C++.</td>
+          </tr>
         </tbody>
       </table>
     <!--</details>-->
@@ -107,7 +112,7 @@
         </thead>
         <tbody>
           <tr>
-            <td align="center"><a /*href="https://github.com/IzaroArbaiza/42-Cursus/tree/main/so_long"*/>Cpp00</a></td>
+            <td align="center"><a /*href="https://github.com/IzaroArbaiza/42-Cursus/tree/main/so_long"*/>Cpp05</a></td>
             <td align="center">C++ / Makefile</td>
             <td>Currently starting programing from the basics on C++.</td>
           </tr>
