@@ -43,52 +43,52 @@
         </thead>
         <tbody>
           <tr>
-            <td align="center"><a href="https://github.com/IzaroArbaiza/42-Cursus/tree/main/Libft">Libft</a></td>
+            <td align="center"><a href="https://github.com/IzaroArbaiza/Libft">Libft</a></td>
             <td align="center">C / Makefile</td>
             <td>A customized C library to practice C skills, by re-implementing standard functions.</td>
           </tr>
           <tr>
-            <td align="center"><a href="https://github.com/IzaroArbaiza/42-Cursus/tree/main/ft_printf">ft_printf</a></td>
+            <td align="center"><a href="https://github.com/IzaroArbaiza/ft_printf/tree/main">ft_printf</a></td>
             <td align="center">C / Makefile</td>
             <td>A costume replica of the function printf.</td>
           </tr>
           <tr>
-            <td align="center"><a href="https://github.com/IzaroArbaiza/42-Cursus/tree/main/get_next_line">get_next_line</a></td>
+            <td align="center"><a href="https://github.com/IzaroArbaiza/get_next_line">get_next_line</a></td>
             <td align="center">C</td>
             <td>It's a C function designed to read and extract individual lines from a file descriptor, emphasizing input/output operations and memory management to strengthen programming skills.</td>
           </tr>
           <tr>
-            <td align="center"><a href="https://github.com/IzaroArbaiza/42-Cursus/tree/main/minitalk">Minitalk</a></td>
+            <td align="center"><a href="https://github.com/IzaroArbaiza/Minitalk">Minitalk</a></td>
             <td align="center">C / Makefile</td>
             <td>It's a chat app in C, focusing on networking and communication between processes to improve skills in building networked systems.</td>
           </tr>
           <tr>
-            <td align="center"><a href="https://github.com/IzaroArbaiza/42-Cursus/tree/main/so_long">So_long</a></td>
+            <td align="center"><a href="https://github.com/IzaroArbaiza/so_long">So_long</a></td>
             <td align="center">C / Makefile / OpenGL</td>
             <td>Involves crafting a basic game in C, prioritizing graphics and game development to boost programming skills.</td>
           </tr>
           <tr>
-            <td align="center"><a href="https://github.com/IzaroArbaiza/42-Cursus/tree/main/push_swap">Push_swap</a></td>
+            <td align="center"><a href="https://github.com/IzaroArbaiza/Push_swap">Push_swap</a></td>
             <td align="center">C / Makefile</td>
             <td>It's a sorting algorithm in C to efficiently reorder stacks of integers with minimal moves, improving the algorithmic and problem-solving skills.</td>
           </tr>
           <tr>
-            <td align="center"><a href="https://github.com/IzaroArbaiza/42-Cursus/tree/main/Philosophers">Philosophers</a></td>
+            <td align="center"><a href="https://github.com/IzaroArbaiza/Philosophers">Philosophers</a></td>
             <td align="center">C / Mkaefile</td>
             <td>Requires to solve the dining philosophers problem in C, simulating how to manage resources efficiently among multiple threads, improving their skills in concurrent programming and synchronization.</td>
           </tr>
           <tr>
-            <td align="center"><a href="https://github.com/IzaroArbaiza/42-Cursus/tree/main/minishell">Minishell</a></td>
+            <td align="center"><a href="https://github.com/IzaroArbaiza/Minishell">Minishell</a></td>
             <td align="center">C / Mkaefile</td>
             <td>It's a basic Unix shell in C, allowing users to interact with the operating system through commands, thereby enhancing their understanding of system calls, processes, and command-line interfaces.</td>
           </tr>
           <tr>
-            <td align="center"><a href="https://github.com/IzaroArbaiza/42-Cursus/tree/main/NetPractice">NetPractice</a></td>
+            <td align="center"><a href="https://github.com/IzaroArbaiza/Netpractice">NetPractice</a></td>
             <td align="center">TCP/IP addressing</td>
             <td>Is centered around network programming, emphasizing tasks such as socket programming, network protocol implementation, and client-server communication. Its goal is to strengthen practical skills and deepen understanding of networking concepts.</td>
           </tr>
           <tr>
-            <td align="center"><a href="https://github.com/IzaroArbaiza/42-Cursus/tree/main/Cub3D">Cub3D</a></td>
+            <td align="center"><a href="https://github.com/IzaroArbaiza/Cub3D">Cub3D</a></td>
             <td align="center">C / Makefile / OpenGL</td>
             <td>Involves creating a simple 3D game engine in C using raycasting, learning about graphics programming, mathematical concepts, and game development fundamentals.</td>
           </tr>
