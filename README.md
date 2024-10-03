@@ -112,7 +112,7 @@
         </thead>
         <tbody>
           <tr>
-            <td align="center"><a /*href="https://github.com/IzaroArbaiza/42-Cursus/tree/main/so_long"*/>Cpp05</a></td>
+            <td align="center"><a /*href="https://github.com/IzaroArbaiza/42-Cursus/tree/main/so_long"*/>Cpp08</a></td>
             <td align="center">C++ / Makefile</td>
             <td>Currently starting programing from the basics on C++.</td>
           </tr>
