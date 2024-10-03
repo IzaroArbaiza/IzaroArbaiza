@@ -97,6 +97,11 @@
             <td align="center">C++ / Makefile </td>
             <td>A series of projects focused on mastering fundamental programming concepts, object-oriented design, memory management, and advanced techniques in C++.</td>
           </tr>
+          <!--<tr>
+            <td align="center"><a href="https://github.com/IzaroArbaiza/Cpp">Cpp05-09</a></td>
+            <td align="center">C++ / Makefile </td>
+            <td>A series of projects focused on mastering fundamental programming concepts, object-oriented design, memory management, and advanced techniques in C++.</td>
+          </tr>-->
         </tbody>
       </table>
     <!--</details>-->
