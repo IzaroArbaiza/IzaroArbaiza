@@ -117,19 +117,19 @@
         </thead>
         <tbody>
           <tr>
-            <td align="center"><a /*href="https://github.com/IzaroArbaiza/42-Cursus/tree/main/so_long"*/>Cpp08</a></td>
-            <td align="center">C++ / Makefile</td>
-            <td>Currently programing the basics on C++.</td>
-          </tr>
-          <tr>
             <td align="center"><a /*href="https://github.com/IzaroArbaiza/42-Cursus/tree/main/so_long"*/>Webserv</a></td>
             <td align="center">C++ / Makefile</td>
             <td>Currently starting web service on C++.</td>
           </tr>
           <tr>
+            <td align="center"><a /*href="https://github.com/IzaroArbaiza/42-Cursus/tree/main/so_long"*/>Cpp08</a></td>
+            <td align="center">C++ / Makefile</td>
+            <td>(Stoped) Currently programing the basics on C++.</td>
+          </tr>
+          <tr>
             <td align="center"><a /*href="https://github.com/IzaroArbaiza/42-Cursus/tree/main/so_long"*/>Inception</a></td>
             <td align="center">Shell / Docker</td>
-            <td>Currently working on a Docker containers proyect.</td>
+            <td>(Stoped) Currently working on a Docker containers proyect.</td>
           </tr>
         </tbody>
       </table>
