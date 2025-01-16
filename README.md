@@ -114,12 +114,12 @@
           <tr>
             <td align="center"><a /*href="https://github.com/IzaroArbaiza/42-Cursus/tree/main/so_long"*/>Webserv</a></td>
             <td align="center">C++ / Makefile</td>
-            <td>Currently starting web service on C++.</td>
+            <td>A web-server from scratch, implementing features like handling HTTP requests, managing connections, and processing responses in C++.</td>
           </tr>
           <tr>
             <td align="center"><a /*href="https://github.com/IzaroArbaiza/42-Cursus/tree/main/so_long"*/>Inception</a></td>
             <td align="center">Shell / Docker</td>
-            <td>(Stoped) Currently working on a Docker containers proyect.</td>
+            <td>(Stoped) Setting up a virtual machine, configure essential services like DNS, SSH, and NTP, and use Docker to create a consistent and functional system environment.</td>
           </tr>
         </tbody>
       </table>
