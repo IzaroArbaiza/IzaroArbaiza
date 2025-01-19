@@ -1,34 +1,48 @@
-<body>
   <h1># Hi there 👋</h1>
   <p>- 🔭 I’m currently working on my Cursus at 42 Urduliz</p>
   <p>- 🌱 I’m currently learning C++, Java and Python</p>
   <p>- 📫 How to reach me: izaroarbaizaipas@gmail.com</p>
-  <hr><br>
+  <hr>  
   
-  <p align="center">**Languages and Tools**</p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" style="vertical-align:down;"/>
-    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="vertical-align:down;"/>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" style="vertical-align:down;"/>
-    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" style="vertical-align:down;"/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="vertical-align:down;"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="vertical-align:down;"/>
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" style="vertical-align:down;"/>
-  </p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge" style="vertical-align:down;"/>
-    <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=for-the-badge" style="vertical-align:down;"/>
-    <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-99F?logo=adobepremierepro&logoColor=fff&style=for-the-badge" style="vertical-align:down;"/>
-  </p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" style="vertical-align:down;"/>
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="vertical-align:down;"/>
-    <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" style="vertical-align:down;"/>
-  </p>
-  <hr>
-  <!--<br>--><!--<br>-->
- <!--<p align="center"><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/iarbaiza" alt="iarbaiza's 42 stats" /></a></p>-->
-  <br>  
+### <p align="center">**Languages and Tools**</p>
+
+<table align="center" style="border: none;">
+  <tr>
+    <td style="padding: 10px; text-align: center;">
+      <p align="center">
+        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+        <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-99F?logo=adobepremierepro&logoColor=fff&style=for-the-badge"/>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+        <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"/>
+      </p>
+    </td>
+    <td style="padding: 10px; text-align: center;">
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzaroArbaiza&layout=compact&theme=radical&hide_border=true&card_width=50" alt="Izaro's Most Used Languages" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<hr><br>
+
+
+
+
+  
   <div title="Remarkable projects" align="center">
     <h3>See some of my projects from 42</h3>
     <!--<details>-->
