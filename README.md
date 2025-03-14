@@ -111,6 +111,11 @@
             <td align="center">C++ / Makefile </td>
             <td>A series of projects focused on mastering fundamental programming concepts, object-oriented design, memory management, and advanced techniques in C++.</td>
           </tr>
+          <tr>
+            <td align="center"><a href="https://github.com/IzaroArbaiza/Webserv">Webserv</a></td>
+            <td align="center">C++ / Makefile </td>
+            <td>A web-server from scratch, implementing features like handling HTTP requests, managing connections, and processing responses in C++.</td>
+          </tr>
         </tbody>
       </table>
     <!--</details>-->
@@ -126,14 +131,14 @@
         </thead>
         <tbody>
           <tr>
-            <td align="center"><a /*href="https://github.com/IzaroArbaiza/42-Cursus/tree/main/so_long"*/>Webserv</a></td>
-            <td align="center">C++ / Makefile</td>
-            <td>A web-server from scratch, implementing features like handling HTTP requests, managing connections, and processing responses in C++.</td>
-          </tr>
-          <tr>
             <td align="center"><a /*href="https://github.com/IzaroArbaiza/42-Cursus/tree/main/so_long"*/>Inception</a></td>
             <td align="center">Shell / Docker</td>
             <td>(Stoped) Setting up a virtual machine, configure essential services like DNS, SSH, and NTP, and use Docker to create a consistent and functional system environment.</td>
+          </tr>
+          <tr>
+            <td align="center"><a /*href="https://github.com/IzaroArbaiza/42-Cursus/tree/main/so_long"*/>ft_transcendence</a></td>
+            <td align="center"> Docker / Django / Javascript / ... </td>
+            <td>Full-stack web project creating a multiplayer Pong game with authentication, real-time chat, and matchmaking using modern web technologies.</td>
           </tr>
         </tbody>
       </table>
