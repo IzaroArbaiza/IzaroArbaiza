@@ -1,6 +1,6 @@
   <h1># Hi there 👋</h1>
-  <p>- 🔭 I’m currently working on my Cursus at 42 Urduliz</p>
-  <p>- 🌱 I’m currently learning Python</p>
+  <p>- 🔭 I’m currently working on my Outercore Cursus at 42 Urduliz</p>
+  <p>- 🌱 I’m currently learning Asembly</p>
   <p>- 📫 How to reach me: izaroarbaizaipas@gmail.com</p>
   <hr>  
   
@@ -60,8 +60,8 @@
         </thead>
         <tbody>
           <tr>
-            <td align="center"><a /*href="https://github.com/IzaroArbaiza/42-Cursus/tree/main/so_long"*/>ft_transcendence</a></td>
-            <td align="center"> Docker / Django / Javascript / ... </td>
+            <td align="center"><a /*href="https://github.com/IzaroArbaiza/42-Cursus/tree/main/so_long"*/>Libasm</a></td>
+            <td align="center"> Asembly / Makefile </td>
             <td>Full-stack web project creating a multiplayer Pong game with authentication, real-time chat, and matchmaking using modern web technologies.</td>
           </tr>
         </tbody>
@@ -160,7 +160,12 @@
             <td align="center"><a href="https://github.com/IzaroArbaiza/Inception">Inception</a></td>
             <td align="center">Shell / Docker</td>
             <td>Setting up a virtual machine, configure essential services like and use Docker to create a consistent and functional system environment.</td>
-          </tr>
+        </tr>
+        <tr>
+            <td align="center"><a /*href="https://github.com/IzaroArbaiza/42-Cursus/tree/main/so_long"*/>ft_transcendence</a></td>
+            <td align="center"> Docker / Django / Javascript / ... </td>
+            <td>Full-stack web project creating a multiplayer Pong game with authentication, real-time chat, and matchmaking using modern web technologies.</td>
+        </tr>
       </tbody>
     </table>
   </details>
