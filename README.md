@@ -37,7 +37,7 @@
     </td>
     <td style="text-align: center;">
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzaroArbaiza&layout=compact&size_weight=0.5&count_weight=0.5&hide=Objective-C,TeX,Perl,Roff,M4&langs_count=13" alt="Izaro's Most Used Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzaroArbaiza&layout=compact&size_weight=0.5&count_weight=0.5&hide=Objective-C,TeX,Perl,Roff,M4&langs_count=13&card_width=300" alt="Izaro's Most Used Languages" />
       </p>
     </td>
   </tr>
