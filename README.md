@@ -1,7 +1,7 @@
   <h1># Hi there 👋</h1>
   <p>- 🔭 I’m currently working on my Outercore Cursus at 42 Urduliz</p>
   <p>- 🌱 I’m currently learning Asembly</p>
-  <p>- 📫 How to reach me: izaroarbaizaipas@gmail.com</p>
+  <p>- 📫 How to reach me: izaroarbaiza@gmail.com</p>
   <hr>  
   
 ### <p align="center">**Languages and Tools**</p>
@@ -83,47 +83,47 @@
         <tr>
           <td align="center"><a href="https://github.com/IzaroArbaiza/Libft">Libft</a></td>
           <td align="center">C / Makefile</td>
-          <td>A customized C library to practice C skills, by re-implementing standard functions.</td>
+          <td>Customized C library re-implementing basic C functions and data structures.</td>
         </tr>
         <tr>
           <td align="center"><a href="https://github.com/IzaroArbaiza/ft_printf/tree/main">ft_printf</a></td>
           <td align="center">C / Makefile</td>
-          <td>A costume replica of the function printf.</td>
+          <td>Costume replica of the function printf.</td>
         </tr>
         <tr>
           <td align="center"><a href="https://github.com/IzaroArbaiza/get_next_line">get_next_line</a></td>
           <td align="center">C</td>
-          <td>It's a C function designed to read and extract individual lines from a file descriptor, emphasizing input/output operations and memory management to strengthen programming skills.</td>
+          <td>Function that reads and returns one line at a time from a file descriptor, managing internal buffers.</td>
         </tr>
         <tr>
           <td align="center"><a href="https://github.com/IzaroArbaiza/Minitalk">Minitalk</a></td>
           <td align="center">C / Makefile</td>
-          <td>It's a chat app in C, focusing on networking and communication between processes to improve skills in building networked systems.</td>
+          <td>Client-server program that sends messages between processes using UNIX signals.</td>
         </tr>
         <tr>
           <td align="center"><a href="https://github.com/IzaroArbaiza/so_long">So_long</a></td>
           <td align="center">C / Makefile / OpenGL</td>
-          <td>Involves crafting a basic game in C, prioritizing graphics and game development to boost programming skills.</td>
+          <td>Simple 2D game using MiniLibX, handling player movement, collision, and map parsing.</td>
         </tr>
         <tr>
           <td align="center"><a href="https://github.com/IzaroArbaiza/Push_swap">Push_swap</a></td>
           <td align="center">C / Makefile</td>
-          <td>It's a sorting algorithm in C to efficiently reorder stacks of integers with minimal moves, improving the algorithmic and problem-solving skills.</td>
+          <td>Sorting algorithm in C to efficiently reorder stacks of integers.</td>
         </tr>
         <tr>
           <td align="center"><a href="https://github.com/IzaroArbaiza/Philosophers">Philosophers</a></td>
           <td align="center">C / Makefile</td>
-          <td>Requires to solve the dining philosophers problem in C, simulating how to manage resources efficiently among multiple threads, improving their skills in concurrent programming and synchronization.</td>
+          <td>Multithreaded simulation of the dining philosophers problem using mutexes to prevent deadlocks.</td>
         </tr>
         <tr>
           <td align="center"><a href="https://github.com/IzaroArbaiza/Minishell">Minishell</a></td>
           <td align="center">C / Makefile</td>
-          <td>It's a basic Unix shell in C, allowing users to interact with the operating system through commands, thereby enhancing their understanding of system calls, processes, and command-line interfaces.</td>
+          <td>Simple Unix shell in C, that parses and executes commands with pipes, redirections, and environment variables.</td>
         </tr>
         <tr>
           <td align="center"><a href="https://github.com/IzaroArbaiza/Cub3D">Cub3D</a></td>
           <td align="center">C / Makefile / OpenGL</td>
-          <td>Involves creating a simple 3D game engine in C using raycasting, learning about graphics programming, mathematical concepts, and game development fundamentals.</td>
+          <td>3D raycasting game inspired by Wolfenstein, featuring textures, map parsing, and player movement.</td>
         </tr>
       </tbody>
     </table>
@@ -144,22 +144,22 @@
         <tr>
           <td align="center"><a href="https://github.com/IzaroArbaiza/Netpractice">NetPractice</a></td>
           <td align="center">TCP/IP addressing</td>
-          <td>Is centered around network programming, emphasizing tasks such as socket programming, network protocol implementation, and client-server communication. Its goal is to strengthen practical skills and deepen understanding of networking concepts.</td>
+          <td>Interactive project to understand and configure basic networking and IP routing.</td>
         </tr>
         <tr>
           <td align="center"><a href="https://github.com/IzaroArbaiza/Cpp">Cpp00-09</a></td>
           <td align="center">C++ / Makefile </td>
-          <td>A series of projects focused on mastering fundamental programming concepts, object-oriented design, memory management, and advanced techniques in C++.</td>
+          <td>Series of exercises to learn C++98 OOP concepts like inheritance, polymorphism, and templates.</td>
         </tr>
         <tr>
           <td align="center"><a href="https://github.com/IzaroArbaiza/Webserv">Webserv</a></td>
           <td align="center">C++ / Makefile </td>
-          <td>A web-server from scratch, implementing features like handling HTTP requests, managing connections, and processing responses in C++.</td>
+          <td>HTTP web server in C++ implementing request parsing, response generation, static file serving, CGI, and multiple clients</td>
         </tr>
         <tr>
             <td align="center"><a href="https://github.com/IzaroArbaiza/Inception">Inception</a></td>
             <td align="center">Shell / Docker</td>
-            <td>Setting up a virtual machine, configure essential services like and use Docker to create a consistent and functional system environment.</td>
+            <td>Infrastructure project that builds and runs services using Docker containers and Docker Compose.</td>
         </tr>
         <tr>
             <td align="center"><a /*href="https://github.com/IzaroArbaiza/42-Cursus/tree/main/so_long"*/>ft_transcendence</a></td>
