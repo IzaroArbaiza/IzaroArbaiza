@@ -62,7 +62,7 @@
           <tr>
             <td align="center"><a /*href="https://github.com/IzaroArbaiza/42-Cursus/tree/main/so_long"*/>Libasm</a></td>
             <td align="center"> Asembly / Makefile </td>
-            <td>Full-stack web project creating a multiplayer Pong game with authentication, real-time chat, and matchmaking using modern web technologies.</td>
+            <td>Reimplement of basic C library functions in x86-64 assembly</td>
           </tr>
         </tbody>
     </table>
@@ -112,12 +112,12 @@
         </tr>
         <tr>
           <td align="center"><a href="https://github.com/IzaroArbaiza/Philosophers">Philosophers</a></td>
-          <td align="center">C / Mkaefile</td>
+          <td align="center">C / Makefile</td>
           <td>Requires to solve the dining philosophers problem in C, simulating how to manage resources efficiently among multiple threads, improving their skills in concurrent programming and synchronization.</td>
         </tr>
         <tr>
           <td align="center"><a href="https://github.com/IzaroArbaiza/Minishell">Minishell</a></td>
-          <td align="center">C / Mkaefile</td>
+          <td align="center">C / Makefile</td>
           <td>It's a basic Unix shell in C, allowing users to interact with the operating system through commands, thereby enhancing their understanding of system calls, processes, and command-line interfaces.</td>
         </tr>
         <tr>
