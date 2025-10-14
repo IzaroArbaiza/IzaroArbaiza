@@ -7,9 +7,10 @@
   
 ### <p align="center">**Languages and Tools**</p>
 
-<table align="center" style="border: none;">
+<table align="center" style="border: none; width: 100%; table-layout: fixed;">
   <tr>
-    <td style="text-align: center;">
+    <!-- Columna de badges -->
+    <td style="text-align: center; vertical-align: middle; width: 60%; max-width: 800px;">
       <p align="center">
         <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="25"/>
         <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25"/>
@@ -35,10 +36,13 @@
         <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" height="25"/>
       </p>
     </td>
-    <td style="text-align: center;">
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzaroArbaiza&layout=compact&size_weight=0.5&count_weight=0.5&hide=Objective-C,TeX,Perl,Roff,M4&langs_count=13" alt="Izaro's Most Used Languages" />
-      </p>
+    <td style="text-align: center; vertical-align: middle; width: 40%;">
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzaroArbaiza&layout=compact&size_weight=0.5&count_weight=0.5&hide=Objective-C,TeX,Perl,Roff,M4&langs_count=13"
+        alt="Izaro's Most Used Languages" 
+        width="500px"
+        style="max-width: 90%; min-width: 400px;"
+      />
     </td>
   </tr>
 </table>
