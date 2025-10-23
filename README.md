@@ -55,7 +55,7 @@
 
 | Project | Language | Description |
 |:--:|:--:|:--|
-
+| [**dr-quire**](https://github.com/IzaroArbaiza/dr-quire) | C / Assembly / Makefile | Study of code self-reference through three self-replicating program. |
 
 <br>
 
