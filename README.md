@@ -57,6 +57,7 @@
 | Project | Language | Description |
 |:--:|:--:|:--|
 | [**dr-quire**](https://github.com/IzaroArbaiza/dr-quire) | C / Assembly / Makefile | Study of code self-reference through three self-replicating program. |
+| [**ft_linear_regression**](https://github.com/IzaroArbaiza/ft_linear_regression) | Python | Implementation of linear regression to predict values using a simple machine learning model. |
 
 <br>
 
