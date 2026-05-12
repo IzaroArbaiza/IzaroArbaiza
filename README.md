@@ -38,7 +38,7 @@
     </td>
     <td style="text-align: center; vertical-align: middle; width: 40%;">
       <img
-        src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IzaroArbaiza&layout=compact"
+        src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IzaroArbaiza&layout=compact&hide=Roff,Perl,Objective-C&langs_count=10"
         alt="Izaro's Most Used Languages" 
         width="500px"
         style="max-width: 90%; min-width: 400px;"
