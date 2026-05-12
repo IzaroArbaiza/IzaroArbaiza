@@ -36,15 +36,14 @@
         <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" height="25"/>
       </p>
     </td>
-    <!-- <td style="text-align: center; vertical-align: middle; width: 40%;">
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzaroArbaiza&layout=compact&size_weight=0.5&count_weight=0.5&hide=Objective-C,TeX,Perl,Roff,M4&langs_count=13"
+    <td style="text-align: center; vertical-align: middle; width: 40%;">
       <img
-        src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=IzaroArbaiza&amp;layout=compact&amp;size_weight=0.5&amp;count_weight=0.5&amp;langs_count=13&amp;hide=Objective-C,TeX,Perl,Roff,M4"
+        src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IzaroArbaiza&layout=compact"
         alt="Izaro's Most Used Languages" 
         width="500px"
         style="max-width: 90%; min-width: 400px;"
       />
-    </td> -->
+    </td>
   </tr>
 </table>
 
