@@ -55,8 +55,9 @@
 
 | Project | Language | Description |
 |:--:|:--:|:--|
-| [**dr-quire**](https://github.com/IzaroArbaiza/dr-quire) | C / Assembly / Makefile | Study of code self-reference through three self-replicating program. |
+| [**dr-quire**](https://github.com/IzaroArbaiza/dr-quire) | C / Assembly / Java / Makefile | Study of code self-reference through three self-replicating program. |
 | [**ft_linear_regression**](https://github.com/IzaroArbaiza/ft_linear_regression) | Python | Implementation of linear regression to predict values using a simple machine learning model. |
+| [**red-tetris**](https://github.com/IzaroArbaiza/red-tetris) | JavaScript / Node.js / React / Sass | Full-stack JavaScript multiplayer Tetris game. |
 
 <br>
 
